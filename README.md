@@ -2,14 +2,12 @@ We have created a telegram bot that knows how to say hello, be interested in the
 
 Created two .bat files:
 
-server.bat - to quickly launch the bot when you need to open/close.
+**server.bat** - to quickly launch the bot when you need to open/close.
 
-console.bat - console, if server.bat is closed, then open console.bat
+**console.bat** - console, if server.bat is closed, then open console.bat
 
-configure.py - the token and the name of our bot are stored here.
+**configure.py** - the token and the name of our bot are stored here.
 
-configure.py - the token and the name of our bot are stored here.
-
-bot.py - our bot's code is stored here.
+**bot.py** - our bot's code is stored here.
 
 ### tgBot
