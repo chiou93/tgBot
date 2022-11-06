@@ -6,6 +6,8 @@ Created two .bat files:
 
 **console.bat** - console, if server.bat is closed, then open console.bat
 
+Created two .py files:
+
 **configure.py** - the token and the name of our bot are stored here.
 
 **bot.py** - our bot's code is stored here.
